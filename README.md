@@ -76,13 +76,13 @@
 <br>
 
 ## 🔰 Практика и стажировка
-[<img src="/practice LMS.png" width="280px" hspace="10px" alt="Сертификат Kvadra»">](https://raw.githubusercontent.com/yarik-qa/yarik-qa/refs/heads/main/practice%20LMS.png)
+[<img src="/intership.png" width="280px" hspace="10px" alt="Сертификат 'Стажировка ВШЭ'">](https://raw.githubusercontent.com/yarik-qa/yarik-qa/refs/heads/main/practice%20LMS.png)
 
 
 <br>
 
 ## 🎒 Образование
-[<img src="/Middle QA.png" width="280px" hspace="10px" alt="Сертификат о прохождении курса 'Инженер по тестированию'">](https://raw.githubusercontent.com/yarik-qa/yarik-qa/refs/heads/main/Middle%20QA.png)
+[<img src="/diploma.png" width="280px" hspace="10px" alt="Сертификат о прохождении курса 'Инженер по тестированию'">](https://raw.githubusercontent.com/yarik-qa/yarik-qa/refs/heads/main/Middle%20QA.png)
 
 <br>
 <br>
