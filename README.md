@@ -81,7 +81,7 @@
 
 <br>
 
-## 🎒 Образование
+## 🎓 Образование
 [<img src="/diploma.png" width="280px" hspace="10px" alt="Сертификат о прохождении курса 'Инженер по тестированию'">](https://raw.githubusercontent.com/yarik-qa/yarik-qa/refs/heads/main/Middle%20QA.png)
 
 <br>
