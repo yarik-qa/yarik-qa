@@ -76,7 +76,7 @@
 <br>
 
 ## 🔰 Практика и стажировка
-[<img src="/intership.png" width="280px" hspace="10px" alt="Сертификат 'Стажировка ВШЭ'">](https://raw.githubusercontent.com/yarik-qa/yarik-qa/refs/heads/main/practice%20LMS.png)
+[<img src="/internship.png" width="280px" hspace="10px" alt="Сертификат 'Стажировка ВШЭ'">](https://raw.githubusercontent.com/yarik-qa/yarik-qa/refs/heads/main/practice%20LMS.png)
 
 
 <br>
