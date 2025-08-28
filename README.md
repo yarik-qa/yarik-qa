@@ -75,7 +75,7 @@
 
 <br>
 
-## 🪴 Практика и стажировка
+## 🔰 Практика и стажировка
 [<img src="/practice LMS.png" width="280px" hspace="10px" alt="Сертификат Kvadra»">](https://raw.githubusercontent.com/yarik-qa/yarik-qa/refs/heads/main/practice%20LMS.png)
 
 
