@@ -72,18 +72,6 @@
 <!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
 <!-- Ещё выбор картинок ↑↑: https://github.com/marwin1991/profile-technology-icons/ --> 
 
-
-<br>
-
-## 🔰 Практика и стажировка
-[<img src="/internship.png" width="280px" hspace="10px" alt="Сертификат 'Стажировка ВШЭ'">](https://raw.githubusercontent.com/yarik-qa/yarik-qa/refs/heads/main/practice%20LMS.png)
-
-
-<br>
-
-## 🎓 Образование
-[<img src="/diploma.png" width="280px" hspace="10px" alt="Сертификат о прохождении курса 'Инженер по тестированию'">](https://raw.githubusercontent.com/yarik-qa/yarik-qa/refs/heads/main/Middle%20QA.png)
-
 <br>
 <br>
 
